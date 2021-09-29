@@ -24,7 +24,7 @@ def clipper():
     root.clipboard_append(pw_entry.get())
 
 
-# lable Frame
+# lable of Frame
 lf = LabelFrame(root, text="How Many Characters?")
 lf.pack(pady=20)
 
